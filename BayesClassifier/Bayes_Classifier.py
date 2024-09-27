@@ -1,7 +1,4 @@
 
-"""
-17EC30027
-Pratik Pyarelal Bhagwat
 Assignment Number 2
 Naive Bayes Classifier
 """
