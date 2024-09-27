@@ -1,5 +1,4 @@
-# Roll 17EC30027
-# Name Pratik Bhagwat
+
 # Assignment Number 4
 # K-Means Clustering
 
