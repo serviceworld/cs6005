@@ -1,5 +1,3 @@
-# Roll 17EC10003
-# Name Anand Raj
 # Assignment Number 3
 # Adaptive Boost
 
